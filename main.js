@@ -26,7 +26,7 @@ button.addEventListener("click", function () { //20000428
         console.log("your birthday is lucky");
     }
     else {
-        outputText.innerText = `${luckyNumber.value} is not that lucky 🤒`;
+        outputText.innerText = `${luckyNumber.value} is not that lucky 🤒. try another number`;
         console.log("your birthday is not lucky");
 
 

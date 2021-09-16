@@ -7,6 +7,12 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+#notice{
+    font-weight: bold;
+    color: white;
+    font-size: large;
+}
+
 .container {
     display: flex;
     margin: auto;
